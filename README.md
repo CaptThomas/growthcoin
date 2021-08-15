@@ -1,9 +1,9 @@
 Growthcoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/growthcoin-project/growthcoin.svg?branch=master)](https://travis-ci.org/growthcoin-project/growthcoin)
+[![Build Status](https://travis-ci.org/thomastail/growthcoin.svg?branch=master)](https://travis-ci.org/thomastail/growthcoin)
 
-https://growthcoin.org
+http://growthcoin.tk
 
 What is Growthcoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Growthcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Growthcoin Core software, see [https://growthcoin.org](https://growthcoin.org).
+the Growthcoin Core software, see our GitHub release page.
 
 License
 -------
@@ -27,17 +27,15 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/growthcoin-project/growthcoin/tags) are created
+completely stable. [Tags](https://github.com/thomastail/growthcoin/tags) are created
 regularly to indicate new official, stable release versions of Growthcoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
 and useful hints for developers can be found in [doc/developer-notes.md](doc/developer-notes.md).
 
-The developer [mailing list](https://groups.google.com/forum/#!forum/growthcoin-dev)
-should be used to discuss complicated or controversial changes before working
-on a patch set.
+Please create a pull request if you would like to contribute.
 
-Developer IRC can be found on Freenode at #growthcoin-dev.
+Use our discussions page to ask questions.
 
 Testing
 -------
