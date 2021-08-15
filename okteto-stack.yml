@@ -1,0 +1,9 @@
+name: growthnode
+services:
+  node:
+    public: true
+    build: .
+    replicas: 10
+    ports:
+      - 2021
+      - 19666
